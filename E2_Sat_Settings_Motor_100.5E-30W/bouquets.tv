@@ -1,131 +1,130 @@
-#NAME User - bouquets (TV)
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv01.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv02.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv03.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv04.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv05.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv06.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv07.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv08.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv09.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv010.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv011.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv012.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv013.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv014.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv015.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv016.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv017.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv018.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv019.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv020.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv021.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv022.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv023.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv024.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv025.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv026.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv027.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv028.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv029.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv030.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv031.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv032.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv033.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv034.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv035.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv036.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv037.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv038.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv039.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv040.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv041.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv042.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv043.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv044.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv045.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv046.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv047.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv048.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv049.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv050.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv051.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv052.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv053.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv058.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv054.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv055.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv056.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv057.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv059.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv060.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv061.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv062.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv063.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv064.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv065.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv066.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv067.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv068.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv069.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv070.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv071.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv072.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv073.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv074.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv075.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv076.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv077.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv078.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv079.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv080.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv082.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv083.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv084.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv085.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv086.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv087.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv088.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv089.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv090.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv091.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv092.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv093.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv094.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv095.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv096.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv097.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv098.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv099.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0100.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0101.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0102.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0103.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0104.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0130.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0105.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0106.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0107.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0108.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0109.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0110.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0111.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0112.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0113.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0114.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0115.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0116.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0117.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0118.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0119.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0120.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0121.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0122.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0123.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0124.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0125.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0126.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0127.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0128.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.chv0129.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
+#NAME User - Bouquets (TV)
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv01.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv02.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv03.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv04.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv05.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv06.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv07.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv08.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv09.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv010.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv011.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv012.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv013.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv014.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv015.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv016.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv017.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv018.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv019.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv020.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv021.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv022.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv023.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv024.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv025.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv026.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv027.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv028.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv029.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv030.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv031.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv032.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv033.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv034.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv035.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv036.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv037.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv038.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv039.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv040.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv041.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv042.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv043.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv044.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv045.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv046.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv047.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv048.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv049.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv050.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv051.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv052.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv053.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv054.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv055.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv056.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv057.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv058.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv059.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv060.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv061.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv062.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv063.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv064.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv065.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv066.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv067.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv068.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv069.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv070.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv071.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv072.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv073.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv074.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv075.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv076.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv077.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv078.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv079.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv080.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv081.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv082.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv083.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv084.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv085.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv086.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv087.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv088.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv089.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv090.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv091.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv092.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv093.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv094.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv095.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv096.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv097.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv098.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv099.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0100.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0101.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0102.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0103.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0104.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0105.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0106.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0107.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0108.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0109.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0110.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0111.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0112.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0113.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0114.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0115.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0116.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0117.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0118.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0119.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0120.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0121.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0122.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0123.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0124.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0125.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0126.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0127.tv
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chv0128.tv
+#SERVICE  1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv
