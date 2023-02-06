@@ -1,6 +1,8 @@
 # by. chveneburi (E2_Sat_Settings_Motor_100.5E-30W)
-# by. salim1965 (E2_Sat_Settings_4-Sat) 42.0°E 13.0°E 19.2°E 0.8°W
-# by. salim1965 (E2_Sat_Settings_12-Sat) 42.0°E 13.0°E 19.2°E 23.5°E 16.0°E 7.0°E 39.0°E 4.8°E 9.0°E 45.0°E 46.0°E 0.8°W
+> 42.0°E 13.0°E 19.2°E 0.8°W
+# by. salim1965 (E2_Sat_Settings_4-Sat)
+> 42.0°E 13.0°E 19.2°E 23.5°E 16.0°E 7.0°E 39.0°E 4.8°E 9.0°E 45.0°E 46.0°E 0.8°W
+# by. salim1965 (E2_Sat_Settings_12-Sat)
 ## SuPPort: [www.dreamosat-forum.com](https://www.dreamosat-forum.com/board/)
 
 
