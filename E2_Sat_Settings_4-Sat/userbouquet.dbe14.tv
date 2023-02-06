@@ -1,0 +1,82 @@
+#NAME :★:  İP TV  spor  :★:
+#SERVICE 1:64:AE:0:0:0:0:0:0:0::  Spor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor1.medya.trt.com.tr/master_720.m3u8:TRT SPOR HD
+#DESCRIPTION TRT SPOR HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8:SPORTS TV
+#DESCRIPTION SPORTS TV
+#SERVICE 4097:0:1:3174:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_sportstv2/live.m3u8:SPORTS TV
+#DESCRIPTION SPORTS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8:GS TV
+#DESCRIPTION GS TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/.m3u8:Dubai Sports 3 HD
+#DESCRIPTION Dubai Sports 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/sport/smil%3asport.smil/playlist.m3u8:KBP SPORTS (720p)
+#DESCRIPTION KBP SPORTS (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/playlist.m3u8:Abu Dhabi Sports 1 (1080p)
+#DESCRIPTION Abu Dhabi Sports 1 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn5.cdn.mangomolo.com/adsports2/smil%3aadsports2.stream.smil/playlist.m3u8:Abu Dhabi Sports 2 (1080p)
+#DESCRIPTION Abu Dhabi Sports 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//admdn1ta.cdn.mangomolo.com/adsports1/smil%3aadsports1.stream.smil/.m3u8:AD Sports 1 HD
+#DESCRIPTION AD Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil%3adubaisports.smil/chunklist_b1600000.m3u8:Dubai Sports
+#DESCRIPTION Dubai Sports
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/chunklist_b1600000.m3u8:Dubai Sports 2 HD
+#DESCRIPTION Dubai Sports 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitnthvll.cdn.mangomolo.com/dubaisports/smil%3adubaisports.smil/.m3u8:Dubai Sports 1 HD
+#DESCRIPTION Dubai Sports 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmithrvll.cdn.mangomolo.com/dubairacing/smil%3adubairacing.smil/chunklist_b1600000.m3u8:Dubai Racing 2
+#DESCRIPTION Dubai Racing 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/chunklist_b1600000.m3u8:Dubai Sports 3
+#DESCRIPTION Dubai Sports 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/.m3u8:Dubai Sports 2 HD
+#DESCRIPTION Dubai Sports 2 HD
+#SERVICE 4097:0:1:14D:4:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8:Turkmenistan Sport
+#DESCRIPTION Turkmenistan Sport
+#SERVICE 4097:0:1:14D:6:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8:Türkmenistan Sport
+#DESCRIPTION Türkmenistan Sport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
+#DESCRIPTION Red Bull TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/226.ts:DAZN F1 SD
+#DESCRIPTION DAZN F1 SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/227.ts:DAZN F1 HD
+#DESCRIPTION DAZN F1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/228.ts:DAZN F1 FHD
+#DESCRIPTION DAZN F1 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/219.ts:DAZN 2 FHD
+#DESCRIPTION DAZN 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/218.ts:DAZN 2 HD
+#DESCRIPTION DAZN 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/221.ts:DAZN 3 HD
+#DESCRIPTION DAZN 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/222.ts:DAZN 3 FHD
+#DESCRIPTION DAZN 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//fenz668.top%3a80/live/pdd4800/vndjspd4t/224.ts:DAZN 4 HD
+#DESCRIPTION DAZN 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87038:EXYU- MAX SPORT 2 HD
+#DESCRIPTION EXYU- MAX SPORT 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87043:EXYU- SPORT KLUB 1(HR)
+#DESCRIPTION EXYU- SPORT KLUB 1(HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87044:EXYU- SPORT KLUB 2 (HR)
+#DESCRIPTION EXYU- SPORT KLUB 2 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/870:EXYU- SPORT KLUB 3 (HR)
+#DESCRIPTION EXYU- SPORT KLUB 3 (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87060:EXYU- ARENA SPORT 4 HD (SR)
+#DESCRIPTION EXYU- ARENA SPORT 4 HD (SR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87062:EXYU- ARENA SPORT 2 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 2 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87063:EXYU- ARENA SPORT 3 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 3 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87064:EXYU- ARENA SPORT 4 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 4 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87065:EXYU- ARENA SPORT 5 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 5 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87066:EXYU- ARENA SPORT 6 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 6 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87067:EXYU- ARENA SPORT 7 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 7 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87068:EXYU- ARENA SPORT 8 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 8 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87069:EXYU- ARENA SPORT 9 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 9 HD (HR)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/87070:EXYU- ARENA SPORT 10 HD (HR)
+#DESCRIPTION EXYU- ARENA SPORT 10 HD (HR)
