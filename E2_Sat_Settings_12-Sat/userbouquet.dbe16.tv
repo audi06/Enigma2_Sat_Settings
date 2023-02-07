@@ -1,12 +1,13 @@
 #NAME :★:  İP TV  belgesel  :★:
-#SERVICE 1:64:105:0:0:0:0:0:0:0::  Belgesel
+#SERVICE 1:64:104:0:0:0:0:0:0:0:
+#DESCRIPTION :★:  Belgesel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8:TRT BELGESEL HD
 #DESCRIPTION TRT BELGESEL HD
 #SERVICE 4097:0:1:3196:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8:TRT BELGESEL
 #DESCRIPTION TRT BELGESEL
 #SERVICE 4097:0:1:2976:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8:TRT BELGESEL
 #DESCRIPTION TRT BELGESEL
-#SERVICE 4097:0:1:14D:1A:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a4:DMAX HD
+#SERVICE 4097:0:1:14d:1a:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a4:DMAX HD
 #DESCRIPTION DMAX HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a4:DMAX HD
 #DESCRIPTION DMAX HD
@@ -16,7 +17,7 @@
 #DESCRIPTION TLC HD
 #SERVICE 4097:0:1:3106:0:0:0:0:0:0:https%3a//b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8:TGRT BELGESEL
 #DESCRIPTION TGRT BELGESEL
-#SERVICE 4097:0:1:14D:A:0:0:0:0:0:https%3a//b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8:TGRT BELGESEL
+#SERVICE 4097:0:1:14d:a:0:0:0:0:0:https%3a//b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8:TGRT BELGESEL
 #DESCRIPTION TGRT BELGESEL
 #SERVICE 4097:0:1:2984:0:0:0:0:0:0:https%3a//dogus-live.daioncdn.net/dmax/playlist.m3u8:D MAX
 #DESCRIPTION D MAX

@@ -1,6 +1,8 @@
 #NAME :★:  ENİGMA2:  İP TV +++  :★:
-#SERVICE 1:64:F8:0:0:0:0:0:0:0::
-#SERVICE 1:64:F9:0:0:0:0:0:0:0::
+#SERVICE 1:64:f7:0:0:0:0:0:0:0:
+#DESCRIPTION :★: + 18 İP TV KANALLARI :★: :★: :★:
+#SERVICE 1:64:f8:0:0:0:0:0:0:0:
+#DESCRIPTION :★: Açılmayan kanallar için dns giriniz  :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59ec5453559f0.streamlock.net%3a1935/mexicotv/smil%3amiamitvmexicoROKU/chunklist_b1896000.m3u8:Miami Tv - Jenny Live (18+)
 #DESCRIPTION Miami Tv - Jenny Live (18+)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/miamitv/smil%3amiamitv/playlist.m3u8:Miami TV (720p)
@@ -11,7 +13,8 @@
 #DESCRIPTION Miami TV Latino (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59ec5453559f0.streamlock.net/mexicotv/smil%3amiamitvmexicoROKU/playlist.m3u8:Miami TV México (720p) [Not 24/7]
 #DESCRIPTION Miami TV México (720p) [Not 24/7]
-#SERVICE 1:64:FA:0:0:0:0:0:0:0::★
+#SERVICE 1:64:f9:0:0:0:0:0:0:0:
+#DESCRIPTION ★:ADULT XXX  :★: :★: :★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e.grex.cc/contents/videos/0/18/18.mp4:XXX Video
 #DESCRIPTION XXX Video
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e.grex.cc/contents/videos/0/19/19.mp4:XXX Video
@@ -204,7 +207,8 @@
 #DESCRIPTION XXX Video
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//e.grex.cc/contents/videos/0/127/127.mp4:XXX Video
 #DESCRIPTION XXX Video
-#SERVICE 1:64:FB:0:0:0:0:0:0:0::★
+#SERVICE 1:64:fa:0:0:0:0:0:0:0:
+#DESCRIPTION ★:ADULT VOD  XXX  :★: :★: :★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pornercdns.com/hls/0073000/73268/hd/hd.m3u8:Xxx
 #DESCRIPTION Xxx
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pornercdns.com/hls/0098000/98582/hd/hd.m3u8:XXX
@@ -697,62 +701,63 @@
 #DESCRIPTION XXX21801
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21800.mp4:XXX21800
 #DESCRIPTION XXX21800
-#SERVICE 1:64:FC:0:0:0:0:0:0:0::
+#SERVICE 1:64:fb:0:0:0:0:0:0:0:
+#DESCRIPTION :★:   xxxxxx :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2021/1/20211786-720p.mp4:Mrcrackpro.blogspot.com
 #DESCRIPTION Mrcrackpro.blogspot.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29374/29374_720p.mp4:Iptvm3uadult.blogspot.com
 #DESCRIPTION Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190952-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190952-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29373/29373_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29373/29373_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201430-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201430-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201429-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201429-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29372/29372_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29372/29372_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2021/1/20211785-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2021/1/20211785-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201433-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201433-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29371/29371_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29371/29371_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201431-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201431-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220334-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220334-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220333-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220333-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220332-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220332-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220335-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220335-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220331-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2022/0/20220331-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29368/29368_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29368/29368_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201432-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/1/20201432-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29379/29379_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29379/29379_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190956-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190956-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29378/29378_720p.:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29378/29378_720p.:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190955-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190955-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29377/29377_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29377/29377_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190954-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190954-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29376/29376_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29376/29376_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190953-720p.mp4:Website : Bestiptv-free.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/0/20190953-720p.mp4:Website %3a Bestiptv-free.blogspot.com
 #DESCRIPTION Website : Bestiptv-free.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29375/29375_720p.mp4:Website : Iptvm3uadult.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/29/29375/29375_720p.mp4:Website %3a Iptvm3uadult.blogspot.com
 #DESCRIPTION Website : Iptvm3uadult.blogspot.com
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2021/1/20211784-720p.mp4:Website : Mrcrackpro.blogspot.com
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2021/1/20211784-720p.mp4:Website %3a Mrcrackpro.blogspot.com
 #DESCRIPTION Website : Mrcrackpro.blogspot.com
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191081-720p.mp4:BangPOV.19.06.08.Autumn.Falls.XXX.1080p.MP4-KTR
 #DESCRIPTION BangPOV.19.06.08.Autumn.Falls.XXX.1080p.MP4-KTR
@@ -868,49 +873,50 @@
 #DESCRIPTION Big Tits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200826-720p.mp4:Dark X
 #DESCRIPTION Dark X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200868-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200868-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181790-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181790-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181791-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181791-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200869-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200869-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200865-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200865-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191887-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191887-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200866-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200866-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181793-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181793-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191894-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191894-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200871-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200871-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191889-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191889-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191886-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2019/1/20191886-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181796-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181796-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181794-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181794-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181795-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181795-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200867-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200867-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200870-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2020/0/20200870-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181792-720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nvid101.cdnii.com/2018/1/20181792-720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11439/11439_720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11439/11439_720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11438/11438_720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11438/11438_720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11437/11437_720p.mp4:By  : Nvid101 Mov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ovhv47.twincdn.com/videos/11/11437/11437_720p.mp4:By  %3a Nvid101 Mov
 #DESCRIPTION By  : Nvid101 Mov
-#SERVICE 1:64:FD:0:0:0:0:0:0:0::
+#SERVICE 1:64:fc:0:0:0:0:0:0:0:
+#DESCRIPTION :★:ADULT XXX_ OLD Movies :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2105037/lyubveobilnyy_klient.mp4:Un Bon Client/Любвеобильный клиент
 #DESCRIPTION Un Bon Client/Любвеобильный клиент
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/vk/VampireStrangler1999.mp4:Vampire Strangler / Вампир душитель 1999
@@ -919,11 +925,11 @@
 #DESCRIPTION VCA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/old_films/VintageLesbos1970s.mp4:Vintage Lesbos / Классические лесбиянки
 #DESCRIPTION Vintage Lesbos / Классические лесбиянки
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Its-Red-Hot.mp4:WPINK-ТВ: Горячая краснота
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Its-Red-Hot.mp4:WPINK-ТВ%3a Горячая краснота
 #DESCRIPTION WPINK-ТВ: Горячая краснота
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2549614/the_autobiography_of_a_flea.mp4:Автобиография Флеи
 #DESCRIPTION Автобиография Флеи
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/adam_i_eva_devushki_kotorye_lyubyat_eto_delat.mp4:Адам и Ева: Девушки Которые Любят Это Делать
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/adam_i_eva_devushki_kotorye_lyubyat_eto_delat.mp4:Адам и Ева%3a Девушки Которые Любят Это Делать
 #DESCRIPTION Адам и Ева: Девушки Которые Любят Это Делать
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2105045/alleya_anala.mp4:Аллея анала
 #DESCRIPTION Аллея анала
@@ -947,7 +953,7 @@
 #DESCRIPTION Ангел в беде
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/vk/HonkyTonkAngels.mp4:Ангелы Хонки Тонк
 #DESCRIPTION Ангелы Хонки Тонк
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2447560/annette_haven_the_elegant_lady.mp4:Аннетта Хэвен: Элегантная леди
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2447560/annette_haven_the_elegant_lady.mp4:Аннетта Хэвен%3a Элегантная леди
 #DESCRIPTION Аннетта Хэвен: Элегантная леди
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/1361492/retro_hhh_84god.mp4:Аристократичность Виолы 7
 #DESCRIPTION Аристократичность Виолы 7
@@ -989,7 +995,7 @@
 #DESCRIPTION Блуд с Зависимыми / Unzucht mit Abhangigen. 1980
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2306573/the_boxer.mp4:Боксер / The Boxer
 #DESCRIPTION Боксер / The Boxer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2306575/the_boxer_3.mp4:Боксёр 3: Последний бой
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2306575/the_boxer_3.mp4:Боксёр 3%3a Последний бой
 #DESCRIPTION Боксёр 3: Последний бой
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2103997/bolshe_gryaznyh_debyutantok_54___more_dirty_debutantes_54.mp4:Больше грязных Дебютанток 54
 #DESCRIPTION Больше грязных Дебютанток 54
@@ -1073,13 +1079,14 @@
 #DESCRIPTION Рокко Сумасшедший Жеребец
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/vk/Roccos-Way-To-Love.mp4:Рокко путь К Любви
 #DESCRIPTION Рокко путь К Любви
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2102078/neron___izvrashcheniya_imperatora__1997.mp4:Нерон: Извращения Императора
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2102078/neron___izvrashcheniya_imperatora__1997.mp4:Нерон%3a Извращения Императора
 #DESCRIPTION Нерон: Извращения Императора
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2215886/pervyy_raz__provokatsiya____la_prima_volta__provocazioni.mp4:Провокация
 #DESCRIPTION Провокация
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/old_films/LifeOfRiley.mp4:Жизнь Райли
 #DESCRIPTION Жизнь Райли
-#SERVICE 1:64:FE:0:0:0:0:0:0:0::
+#SERVICE 1:64:fd:0:0:0:0:0:0:0:
+#DESCRIPTION :★: belirli gün ve saatlerde  açılan kanallar  :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//crvena.ottrast.com/iptv/GR3HB698QWKZDZ/14140/index.m3u8:XXX Love's Berry HD
 #DESCRIPTION XXX Love's Berry HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//crvena.ottrast.com/iptv/GR3HB698QWKZDZ/9346/index.m3u8:EXXXOTICA HD orig
@@ -1218,7 +1225,8 @@
 #DESCRIPTION BCU Charm HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//crvena.ottrast.com/iptv/GR3HB698QWKZDZ/9344/index.m3u8:Русская ночь orig
 #DESCRIPTION Русская ночь orig
-#SERVICE 1:64:FF:0:0:0:0:0:0:0::
+#SERVICE 1:64:fe:0:0:0:0:0:0:0:
+#DESCRIPTION :★: belirli gün ve saatlerde  açılan kanallar  :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d6syvfp9.rostelekom.xyz/iptv/BV8ND8FQ4MEB6B/876/index.m3u8:SCT
 #DESCRIPTION SCT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d6syvfp9.rostelekom.xyz/iptv/BV8ND8FQ4MEB6B/242/index.m3u8:Redlight HD
@@ -1253,18 +1261,20 @@
 #DESCRIPTION Fake Taxi HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//d6syvfp9.rostelekom.xyz/iptv/BV8ND8FQ4MEB6B/6225/index.m3u8:Japan HDV
 #DESCRIPTION Japan HDV
-#SERVICE 1:64:100:0:0:0:0:0:0:0::
+#SERVICE 1:64:ff:0:0:0:0:0:0:0:
+#DESCRIPTION :★:  xxxxx :★: :★: :★:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/Projet-X.mp4:Проект X
 #DESCRIPTION Проект X
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/DirtyMenAtWork.mp4:Работяги: Из Жизни Сантехников
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/films/DirtyMenAtWork.mp4:Работяги%3a Из Жизни Сантехников
 #DESCRIPTION Работяги: Из Жизни Сантехников
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video1.tizam.cc/files/2492463/filthy_girls.mp4:Развратные крошки
 #DESCRIPTION Развратные крошки
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2156508/rasputin___orgien_am_zarenhof.mp4:Распутин: Оргии при царском дворе
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2156508/rasputin___orgien_am_zarenhof.mp4:Распутин%3a Оргии при царском дворе
 #DESCRIPTION Распутин: Оргии при царском дворе
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4:40 лет: Замужняя но раскрепощенная
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4:40 лет%3a Замужняя но раскрепощенная
 #DESCRIPTION 40 лет: Замужняя но раскрепощенная
-#SERVICE 1:64:101:0:0:0:0:0:0:0::★
+#SERVICE 1:64:100:0:0:0:0:0:0:0:
+#DESCRIPTION ★:ADULT XXX  :★: :★: :★
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vipblue.live%3a8080/movie/Markliez22/xx281122xx/12820.mp4:[ XXX  VIDEO ] 1
 #DESCRIPTION [ XXX  VIDEO ] 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//vipblue.live%3a8080/movie/Markliez22/xx281122xx/12821.mp4:[ XXX  VIDEO ] 2
@@ -1619,4 +1629,5 @@
 #DESCRIPTION A quickie after work
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//www.aussieass.com/members/content//upload/vids-monte-ryan/mp43000/monte.mp4:Taking it from behind
 #DESCRIPTION Taking it from behind
-#SERVICE 1:64:102:0:0:0:0:0:0:0::★
+#SERVICE 1:64:101:0:0:0:0:0:0:0:
+#DESCRIPTION ★:ADULT XXX  :★: :★: :★

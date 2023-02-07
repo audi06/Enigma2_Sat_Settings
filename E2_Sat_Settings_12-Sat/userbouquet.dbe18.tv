@@ -1,5 +1,6 @@
 #NAME :★:  İP TV sinema haber :★:
-#SERVICE 1:64:106:0:0:0:0:0:0:0::  SİNEMA
+#SERVICE 1:64:105:0:0:0:0:0:0:0:
+#DESCRIPTION :★:  SİNEMA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86971:EXYU- 24 KITCHEN
 #DESCRIPTION EXYU- 24 KITCHEN
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86966:EXYU- FOX CRIME
@@ -80,17 +81,17 @@
 #DESCRIPTION Persiana Comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.247box.live/hls/stream.m3u8:24!7 Box TV
 #DESCRIPTION 24!7 Box TV
-#SERVICE 4097:0:1:14D:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch001_720/index.m3u8:Altyn Asyr
+#SERVICE 4097:0:1:14d:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch001_720/index.m3u8:Altyn Asyr
 #DESCRIPTION Altyn Asyr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.4/hls/stream.m3u8:AVA Series
 #DESCRIPTION AVA Series
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8:Baden TV
 #DESCRIPTION Baden TV
-#SERVICE 4097:0:19:283D:3FB:1:C00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste
+#SERVICE 4097:0:19:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste
 #DESCRIPTION Das Erste
-#SERVICE 4097:0:1:283D:3FB:1:C00000:0:0:0:http%3a//mcdn.daserste.de/daserste/int/master.m3u8:Das Erste HD
+#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//mcdn.daserste.de/daserste/int/master.m3u8:Das Erste HD
 #DESCRIPTION Das Erste HD
-#SERVICE 4097:0:1:EC12:89F8:EC:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist_b1800000.m3u8:Dubai One
+#SERVICE 4097:0:1:ec12:89f8:ec:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist_b1800000.m3u8:Dubai One
 #DESCRIPTION Dubai One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One (1080p)
 #DESCRIPTION Dubai One (1080p)
@@ -122,7 +123,7 @@
 #DESCRIPTION Redbox Spotlight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59f1cbe63db89.streamlock.net%3a1935/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8:Retro Plus Movies
 #DESCRIPTION Retro Plus Movies
-#SERVICE 4097:0:1:132:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8:SAT1 NS/Bremen (17:30-18:00)
+#SERVICE 4097:0:1:132:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8:SAT1 NS/Bremen (17%3a30-18%3a00)
 #DESCRIPTION SAT1 NS/Bremen (17:30-18:00)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8:Südthüringer Regionalfernsehen
 #DESCRIPTION Südthüringer Regionalfernsehen
@@ -130,11 +131,11 @@
 #DESCRIPTION TelePAVIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u8:THE SHOPPING CHANNEL
 #DESCRIPTION THE SHOPPING CHANNEL
-#SERVICE 4097:0:1:4B8E:816:600:FFFF0000:0:0:0:http%3a//ms7.mx-cd.net/tv/Tommy_Teleshopping.smil/playlist.m3u8:Tommy TV
+#SERVICE 4097:0:1:4b8e:816:600:ffff0000:0:0:0:http%3a//ms7.mx-cd.net/tv/Tommy_Teleshopping.smil/playlist.m3u8:Tommy TV
 #DESCRIPTION Tommy TV
-#SERVICE 4097:0:1:1A03:F897:EC:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT WORLD HD (English)
+#SERVICE 4097:0:1:1a03:f897:ec:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT WORLD HD (English)
 #DESCRIPTION TRT WORLD HD (English)
-#SERVICE 4097:0:1:14D:3:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:Turkmen Owazy
+#SERVICE 4097:0:1:14d:3:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:Turkmen Owazy
 #DESCRIPTION Turkmen Owazy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/dtv-11/WOS.smil/playlist.m3u8:WOS TV (s-Gravenzande)
 #DESCRIPTION WOS TV (s-Gravenzande)

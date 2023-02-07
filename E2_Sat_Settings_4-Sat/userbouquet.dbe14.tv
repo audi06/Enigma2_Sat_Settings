@@ -1,5 +1,6 @@
 #NAME :★:  İP TV  spor  :★:
-#SERVICE 1:64:AE:0:0:0:0:0:0:0::  Spor
+#SERVICE 1:64:ad:0:0:0:0:0:0:0:
+#DESCRIPTION :★:  Spor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv-trtspor1.medya.trt.com.tr/master_720.m3u8:TRT SPOR HD
 #DESCRIPTION TRT SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8:SPORTS TV
@@ -30,9 +31,9 @@
 #DESCRIPTION Dubai Sports 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/.m3u8:Dubai Sports 2 HD
 #DESCRIPTION Dubai Sports 2 HD
-#SERVICE 4097:0:1:14D:4:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8:Turkmenistan Sport
+#SERVICE 4097:0:1:14d:4:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8:Turkmenistan Sport
 #DESCRIPTION Turkmenistan Sport
-#SERVICE 4097:0:1:14D:6:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8:Türkmenistan Sport
+#SERVICE 4097:0:1:14d:6:0:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8:Türkmenistan Sport
 #DESCRIPTION Türkmenistan Sport
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8:Red Bull TV HD
 #DESCRIPTION Red Bull TV HD
