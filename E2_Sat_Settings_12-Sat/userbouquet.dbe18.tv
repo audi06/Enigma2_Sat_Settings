@@ -1,42 +1,6 @@
 #NAME :★:  İP TV sinema haber :★:
-#SERVICE 1:64:105:0:0:0:0:0:0:0:
+#SERVICE 1:64:106:0:0:0:0:0:0:0:::★:  SİNEMA
 #DESCRIPTION :★:  SİNEMA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86971:EXYU- 24 KITCHEN
-#DESCRIPTION EXYU- 24 KITCHEN
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86966:EXYU- FOX CRIME
-#DESCRIPTION EXYU- FOX CRIME
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86967:EXYU- FOX MOVIES
-#DESCRIPTION EXYU- FOX MOVIES
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86965:EXYU- FOX LIFE
-#DESCRIPTION EXYU- FOX LIFE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86949:EXYU- CINESTAR ACTION TV
-#DESCRIPTION EXYU- CINESTAR ACTION TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86950:EXYU- CINESTAR FANTASY
-#DESCRIPTION EXYU- CINESTAR FANTASY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86951:EXYU- CINESTAR PREMIERE 1
-#DESCRIPTION EXYU- CINESTAR PREMIERE 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86952:EXYU- CINESTAR PREMIERE 2
-#DESCRIPTION EXYU- CINESTAR PREMIERE 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86912:EXYU- PINK CRIME & MYSTERY
-#DESCRIPTION EXYU- PINK CRIME & MYSTERY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86904:EXYU- PINK ACTION
-#DESCRIPTION EXYU- PINK ACTION
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86906:EXYU- PINK MEDIA M
-#DESCRIPTION EXYU- PINK MEDIA M
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86909:EXYU- PINK LOL
-#DESCRIPTION EXYU- PINK LOL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86910:EXYU- PINK COMEDY
-#DESCRIPTION EXYU- PINK COMEDY
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86913:EXYU- PINK EXTRA
-#DESCRIPTION EXYU- PINK EXTRA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86914:EXYU- PINK KUVAR
-#DESCRIPTION EXYU- PINK KUVAR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86915:EXYU- PINK FILM
-#DESCRIPTION EXYU- PINK FILM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86956:EXYU- M1 FILM
-#DESCRIPTION EXYU- M1 FILM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//161.35.23.11%3a25461/Ts6cNVfFbA/tii72bwNgV/86957:EXYU- M1 GOLD
-#DESCRIPTION EXYU- M1 GOLD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:Pluto TV 70s Cinema
 #DESCRIPTION Pluto TV 70s Cinema
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:Pluto TV 80s Rewind
@@ -81,17 +45,17 @@
 #DESCRIPTION Persiana Comedy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls.247box.live/hls/stream.m3u8:24!7 Box TV
 #DESCRIPTION 24!7 Box TV
-#SERVICE 4097:0:1:14d:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch001_720/index.m3u8:Altyn Asyr
+#SERVICE 4097:0:1:14D:0:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch001_720/index.m3u8:Altyn Asyr
 #DESCRIPTION Altyn Asyr
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//51.210.199.4/hls/stream.m3u8:AVA Series
 #DESCRIPTION AVA Series
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8:Baden TV
 #DESCRIPTION Baden TV
-#SERVICE 4097:0:19:283d:3fb:1:c00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste
+#SERVICE 4097:0:19:283D:3FB:1:C00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste
 #DESCRIPTION Das Erste
-#SERVICE 4097:0:1:283d:3fb:1:c00000:0:0:0:http%3a//mcdn.daserste.de/daserste/int/master.m3u8:Das Erste HD
+#SERVICE 4097:0:1:283D:3FB:1:C00000:0:0:0:http%3a//mcdn.daserste.de/daserste/int/master.m3u8:Das Erste HD
 #DESCRIPTION Das Erste HD
-#SERVICE 4097:0:1:ec12:89f8:ec:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist_b1800000.m3u8:Dubai One
+#SERVICE 4097:0:1:EC12:89F8:EC:0:0:0:0:http%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/chunklist_b1800000.m3u8:Dubai One
 #DESCRIPTION Dubai One
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dminnvll.cdn.mangomolo.com/dubaione/smil%3adubaione.stream.smil/playlist.m3u8:Dubai One (1080p)
 #DESCRIPTION Dubai One (1080p)
@@ -123,7 +87,7 @@
 #DESCRIPTION Redbox Spotlight
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//59f1cbe63db89.streamlock.net%3a1935/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8:Retro Plus Movies
 #DESCRIPTION Retro Plus Movies
-#SERVICE 4097:0:1:132:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8:SAT1 NS/Bremen (17%3a30-18%3a00)
+#SERVICE 4097:0:1:132:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/sat1ha/loop_ha/playlist.m3u8:SAT1 NS/Bremen (17:30-18:00)
 #DESCRIPTION SAT1 NS/Bremen (17:30-18:00)
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8:Südthüringer Regionalfernsehen
 #DESCRIPTION Südthüringer Regionalfernsehen
@@ -131,11 +95,11 @@
 #DESCRIPTION TelePAVIA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-p.m3u8:THE SHOPPING CHANNEL
 #DESCRIPTION THE SHOPPING CHANNEL
-#SERVICE 4097:0:1:4b8e:816:600:ffff0000:0:0:0:http%3a//ms7.mx-cd.net/tv/Tommy_Teleshopping.smil/playlist.m3u8:Tommy TV
+#SERVICE 4097:0:1:4B8E:816:600:FFFF0000:0:0:0:http%3a//ms7.mx-cd.net/tv/Tommy_Teleshopping.smil/playlist.m3u8:Tommy TV
 #DESCRIPTION Tommy TV
-#SERVICE 4097:0:1:1a03:f897:ec:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT WORLD HD (English)
+#SERVICE 4097:0:1:1A03:F897:EC:0:0:0:0:https%3a//tv-trtworld.live.trt.com.tr/master.m3u8:TRT WORLD HD (English)
 #DESCRIPTION TRT WORLD HD (English)
-#SERVICE 4097:0:1:14d:3:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:Turkmen Owazy
+#SERVICE 4097:0:1:14D:3:0:0:0:0:0:http%3a//217.174.225.146/legacyhls/ch005_400/index.m3u8:Turkmen Owazy
 #DESCRIPTION Turkmen Owazy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ms7.mx-cd.net/dtv-11/WOS.smil/playlist.m3u8:WOS TV (s-Gravenzande)
 #DESCRIPTION WOS TV (s-Gravenzande)

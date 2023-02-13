@@ -15,7 +15,7 @@
 #DESCRIPTION KANAL D HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//teve2.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8:KANAL D HD
 #DESCRIPTION KANAL D HD
-#SERVICE 4097:0:1:14d:34:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09z:STAR TV HD
+#SERVICE 4097:0:1:14D:34:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09z:STAR TV HD
 #DESCRIPTION STAR TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//startv.blutv.com/blutv_startv_live/live.m3u8:STAR TV HD
 #DESCRIPTION STAR TV HD
@@ -31,7 +31,7 @@
 #DESCRIPTION BEYAZ TV
 #SERVICE 4097:0:1:3116:0:0:0:0:0:0:https%3a//beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8:BEYAZ TV yeşilçam
 #DESCRIPTION BEYAZ TV yeşilçam
-#SERVICE 4097:0:1:14d:3c:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a5:TLC HD
+#SERVICE 4097:0:1:14D:3C:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a5:TLC HD
 #DESCRIPTION TLC HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kanal7.blutv.com/blutv_kanal7_live/live.m3u8:KANAL 7 HD
 #DESCRIPTION KANAL 7 HD
@@ -47,7 +47,7 @@
 #DESCRIPTION TRT SPOR HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dogus-live.daioncdn.net/ntv/playlist.m3u8:NTV HD
 #DESCRIPTION NTV HD
-#SERVICE 4097:0:1:14d:28:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a0:NTV HD
+#SERVICE 4097:0:1:14D:28:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a0a0:NTV HD
 #DESCRIPTION NTV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8:HABER GLOBAL HD
 #DESCRIPTION HABER GLOBAL HD
@@ -93,7 +93,7 @@
 #DESCRIPTION HALK TV HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8:TGRT BELGESEL
 #DESCRIPTION TGRT BELGESEL
-#SERVICE 4097:0:1:14d:6a:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09c:TRT1 HD
+#SERVICE 4097:0:1:14D:6A:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09c:TRT1 HD
 #DESCRIPTION TRT1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09c:TRT1 HD
 #DESCRIPTION TRT1 HD
@@ -105,7 +105,7 @@
 #DESCRIPTION SHOWTÜRK HD
 #SERVICE 4097:0:1:3238:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_ulketv2/live.m3u8:ÜLKE
 #DESCRIPTION ÜLKE
-#SERVICE 4097:0:1:14d:6b:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09p:TRT2 HD
+#SERVICE 4097:0:1:14D:6B:0:0:0:0:0:http%3a//195.155.98.170%3a5858/play/a09p:TRT2 HD
 #DESCRIPTION TRT2 HD
 #SERVICE 4097:0:1:3110:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_360tv/live.m3u8:360 TV
 #DESCRIPTION 360 TV
@@ -127,7 +127,7 @@
 #DESCRIPTION NTV
 #SERVICE 4097:0:1:3222:0:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_tv1002/live.m3u8:TV 100
 #DESCRIPTION TV 100
-#SERVICE 4097:0:1:14d:1c:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8:Flash TV
+#SERVICE 4097:0:1:14D:1C:0:0:0:0:0:https%3a//mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8:Flash TV
 #DESCRIPTION Flash TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.guventechnology.com%3a19360/flashtv/flashtv.m3u8:FLASH TV
 #DESCRIPTION FLASH TV
@@ -163,7 +163,7 @@
 #DESCRIPTION HALK TV
 #SERVICE 4097:0:1:3082:0:0:0:0:0:0:http%3a//iptvmasterlink.dyndns.org%3a8080/CemTv/playlist.m3u8:CEM TV
 #DESCRIPTION CEM TV
-#SERVICE 4097:0:1:14d:1:0:0:0:0:0:http%3a//iptvmasterlink.dyndns.org%3a8080/CemTv/playlist.m3u8:CEM TV
+#SERVICE 4097:0:1:14D:1:0:0:0:0:0:http%3a//iptvmasterlink.dyndns.org%3a8080/CemTv/playlist.m3u8:CEM TV
 #DESCRIPTION CEM TV
 #SERVICE 4097:0:1:2866:0:0:0:0:0:0:https%3a//tv.ensonhaber.com/tv/tr/ntv/index.m3u8:NTV
 #DESCRIPTION NTV
@@ -217,7 +217,7 @@
 #DESCRIPTION DOST TV
 #SERVICE 4097:0:1:2890:0:0:0:0:0:0:http%3a//akittv-live.ercdn.net/akittv/akittv.m3u8:AKIT TV
 #DESCRIPTION AKIT TV
-#SERVICE 4097:0:1:14d:0:0:0:0:0:0:http%3a//canbroadcast.com%3a7000/canlican/tv.m3u8:CAN TV
+#SERVICE 4097:0:1:14D:0:0:0:0:0:0:http%3a//canbroadcast.com%3a7000/canlican/tv.m3u8:CAN TV
 #DESCRIPTION CAN TV
 #SERVICE 4097:0:1:3098:0:0:0:0:0:0:http%3a//canbroadcast.com%3a7000/canlican/tv.m3u8:CAN TV
 #DESCRIPTION CAN TV
