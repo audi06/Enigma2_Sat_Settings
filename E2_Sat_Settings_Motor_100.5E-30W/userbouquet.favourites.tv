@@ -1,1 +1,7 @@
 #NAME Favourites (TV)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www.libde265.org/hevc-bitstreams/bbb-1280x720-cfg02.mkv:1280px × 720px "bbb-1280x720-cfg02.mkv"
+#DESCRIPTION 1280px × 720px "bbb-1280x720-cfg02.mkv"
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www.libde265.org/hevc-bitstreams/bbb-1920x1080-cfg02.mkv:1920px × 1080px "bbb-1920x1080-cfg02.mkv"
+#DESCRIPTION 1920px × 1080px "bbb-1920x1080-cfg02.mkv"
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//www.libde265.org/hevc-bitstreams/bbb-3840x2160-cfg02.mkv:3840px × 2160px "bbb-3840x2160-cfg02.mkv"
+#DESCRIPTION 3840px × 2160px "bbb-3840x2160-cfg02.mkv"
